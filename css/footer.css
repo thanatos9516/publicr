@@ -1,0 +1,16 @@
+#main{
+    background-color:#030622;
+    width: auto;
+}
+    .alinear{
+     display: inline-block;
+     width: 70%;
+     margin-top: 3px;
+     margin-bottom: 3px;
+     margin-left: 3px;
+     margin-right: 3px;
+     border-radius: 5px;  
+    }
+#social {
+    background-color: cadetblue;
+}
