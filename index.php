@@ -99,7 +99,7 @@
     <!-- Three columns of text below the carousel -->
     <div class="row scrollflow -slide-right -opacity">
       <div class="col-lg-4">
-        <img src="img/main/1.jpg" style="width:80%; height:230px; border-radius:20px;">
+        <img src="img/main/1.jpg" style="width:80%; height:230px; border-radius:20px; h">
         <h2>Experiencia</h2>
         <p>Contamos con la experiencia y el equipo necesario para ubicarte con un perfil digital que se ajuste a tu negocio y tus necesidades, abarcamos las necesidades diarias y las analizamos para buscar las mejores soluciones.</p>
       </div><!-- /.col-lg-4 -->
