@@ -66,7 +66,7 @@
                 <div style="height: 20px;"></div>
                 <div class="link-area">
                         <h4 class="text-uppercase">
-                        <strong>My Account</strong>
+                        <strong>Mi cuenta</strong>
                       </h4>
                     <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 95px;">
                     <ul>
@@ -100,7 +100,7 @@
                 <div style="height: 20px;"></div>
                 <div class="link-area">
                         <h4 class="text-uppercase">
-                        <strong>Contact Us</strong>
+                        <strong>Contactanos</strong>
                         </h4>
                     <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 90px;">
                     <ul>
