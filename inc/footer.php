@@ -78,9 +78,7 @@
                                
                                      <a class="dropdown-item" href="#account" data-toggle="modal" style="color:white"><img src="svg/si-glyph-flower.svg"/ style="width:24px; height:24px;"> My Account</a>
                                      <a class="dropdown-item" href="#profile" data-toggle="modal" style="color:white"><img src="svg/si-glyph-man-doctor.svg"/ style="width:24px; height:24px;"> My Profile</a>
-                                      <li id="cartme" style="cursor:pointer">
-                                            <a class="nav-item nav-link" id="cart_control" title="Shopping Cart" data-toggle="popover" style="color:white"><img src="svg/si-glyph-trolley-2.svg"/ style="width:24px; height:24px;"> My Shopping Cart</a>
-                                            </li>
+                                      
                                   
                                  ';
                             }else{
@@ -89,8 +87,7 @@
                                              <a class="dropdown-item" href="#myModal" data-toggle="modal" style="color:white"><img src="svg/si-glyph-flower.svg"/ style="width:24px; height:24px;"> My Account</a>
                                              <a class="dropdown-item" href="#myModal" data-toggle="modal" style="color:white"><img src="svg/si-glyph-man-doctor.svg"/ style="width:24px; height:24px;"> My Profile</a>
                                             
-                                            <a class="nav-item nav-link" id="cart_control" title="Shopping Cart" data-toggle="popover" style="color:white"><img src="svg/si-glyph-trolley-2.svg"/ style="width:24px; height:24px;"> My Shopping Cart</a>
-                                          
+                                           
                                  
                                  ';
                             }
@@ -107,11 +104,11 @@
                         </h4>
                     <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 90px;">
                     <ul>
-                    <li><p style="color:white"><i class="fa fa-envelope-o text-white"></i> : fchmaintenance@gmail.com</p></li>
-                    <li><p style="color:white"><i class="fa fa-address-book-o text-white"></i> : 1-800-678-0502</p></li>
-                    <li><p style="color:white"><i class="fa fa-phone text-white"></i> : 604-265-4794</p></li>
-                    <li><p style="color:white"><i class="fa fa-compass text-white"></i> : General Mailing Address: 13-4 Alliance Blvd. Suite 111 Barrie, On  L4M 1L2 </p></li>
-                    <li><p style="color:white"><i class="fa fa-compass text-white"></i> : Work Shop 236 Eglington Rd S, <br> Callander, Ontario <br> P0H-1H0 </p></li>
+                    <li><p style="color:white"><i class="fa fa-envelope-o text-white"></i> : publicacr@gmail.com</p></li>
+                    <li><p style="color:white"><i class="fa fa-address-book-o text-white"></i> : 6137-2755</p></li>
+                    <li><p style="color:white"><i class="fa fa-phone text-white"></i> : 7152-8949</p></li>
+                    <li><p style="color:white"><i class="fa fa-compass text-white"></i> : Dirección General: San José, Costa Rica</p></li>
+                    <br>
                     </ul>
                 </div>
             </div>
@@ -122,7 +119,7 @@
 <section id="social" class="index-social">
     <div class="container">
     <div class="row index-social-link text-center d-flex">
-            <p class="d-flex flex-row copy-c"><p>&copy; 2019 PUBLICR </p>
+            <p class="d-flex flex-row copy-c"><p>&copy; 2019 PUBLICACR </p>
             <p class="ml-auto p-2">&copy;JMSOFTCR ENTERPRISE</p>
         </div>  
     <div class="row index-social-link text-center d-flex flex-row-reverse">

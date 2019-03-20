@@ -99,20 +99,20 @@
     <!-- Three columns of text below the carousel -->
     <div class="row scrollflow -slide-right -opacity">
       <div class="col-lg-4">
-        <img src="img/main/1.jpg" style="width:80%; height:230px;">
-        <h2>Heading</h2>
-        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+        <img src="img/main/1.jpg" style="width:80%; height:230px; border-radius:20px;">
+        <h2>Experiencia</h2>
+        <p>Contamos con la experiencia y el equipo necesario para ubicarte con un perfil digital que se ajuste a tu negocio y tus necesidades, abarcamos las necesidades diarias y las analizamos para buscar las mejores soluciones.</p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
-        <img src="img/main/2.png" style="width:80%; height:230px;">
-        <h2>Heading</h2>
-        <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+        <img src="img/main/2.jpg" style="width:80%; height:230px; border-radius:20px;">
+        <h2>Estadistica y Planeación</h2>
+        <p>Creamos un estudio en específico para tu empresa, por medio de estadísticas podemos planear la manera de abarcar el mercado, crear la mejor publicidad y poder atraer potenciales clientes a tu mercado.</p>
         
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
-        <img src="img/main/3.jpg" style="width:80%; height:230px;">
-        <h2>Heading</h2>
-        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <img src="img/main/3.jpg" style="width:80%; height:230px; border-radius:20px;">
+        <h2>Innovación</h2>
+        <p>Basados en la tecnología actual creamos la mejor plataforma, que se adapte a todo disposito inteligente, de esta manera nos aseguramos de mantener un vínculo con los clientes, garantizando la mejor sensación al navegar por nuestra plataforma.</p>
         
       </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
@@ -122,7 +122,7 @@
 
     <hr class="featurette-divider">
 
-    <div class="row featurette">
+    <!--<div class="row featurette">
       <div class="col-md-7">
         <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
         <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
@@ -154,7 +154,7 @@
       <div class="col-md-5">
         <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect fill="#eee" width="100%" height="100%"/><text fill="#aaa" dy=".3em" x="50%" y="50%">500x500</text></svg>
       </div>
-    </div>
+    </div>-->
 
     <hr class="featurette-divider">
 
