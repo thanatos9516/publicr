@@ -29,9 +29,9 @@
                         </div>
                         <h5><?php echo $name; ?></h5>
                        
-                        <p>₡ </p>
+                        <p> </p>
                         
-                        <form action="details.php?id=<?php echo $id; ?>" method="post" name="Detalle">
+                        <form action="info.php?id=<?php echo $id; ?>" method="post" name="Detalle">
                                 <input name="id_txt" type="hidden" value="<?php echo $id; ?>" />
                                 <input name="Detalles" type="submit" value="Detalles" class="btn btn-danger" style="width:95%;"/>
                               </form>

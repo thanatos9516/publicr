@@ -39,11 +39,11 @@
                       </h4>
                     <!-- <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 85px;"> -->
                    
-                   <a style="margin-top:20px;" class="col-xs-12 col-lg-12 alinear btn btn-success btn-sm" href="index.php">Home</a>
+                   <a style="margin-top:20px;" class="col-xs-12 col-lg-12 alinear btn btn-success btn-sm" href="index.php">Inicio</a>
                     
                     <div class="col-xs-12">
   <button class="btn btn-success btn-sm dropdown-toggle alinear" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Services
+    Busqueda
   </button>
   <div class="dropdown-menu">
   
