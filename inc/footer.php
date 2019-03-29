@@ -47,18 +47,15 @@
   </button>
   <div class="dropdown-menu">
   
-                <a class="dropdown-item" href="equipment_seccion.php">New Equipment</a>
-                <a class="dropdown-item" href="">Cleaning Chemicals</a>
-                <a class="dropdown-item" href="Floor_seccion.php">Floor Care</a>
-                <a class="dropdown-item" href="batteries.php">Batteries</a>
-                <a class="dropdown-item" href="parts_and_accessories.php">Parts and Accessories</a>
-                <a class="dropdown-item" href="green_cleaning.php" >Green Cleaning</a>
+                <a class="dropdown-item" href="products.php?cat=1">Tecnología</a>
+                <a class="dropdown-item" href="products.php?cat=2">Belleza</a>
+                <a class="dropdown-item" href="products.php?cat=11">Carros</a>
+                <a class="dropdown-item" href="products.php?cat=12">Mixtos</a>
   </div>
 </div>
 
-                    <a class="btn btn-success btn-sm alinear col-xs-12" href="">Pads</a>
-                   <a class="btn btn-success btn-sm alinear col-xs-12" href="">Cleaning Supplies</a>          
-                   <a class="btn btn-success btn-sm alinear col-xs-12" href="">Use Equipment</a>          
+              
+                   <a class="btn btn-success btn-sm alinear col-xs-12" href="about.php">Nosotros</a>          
                 </div>
             </div>
 
