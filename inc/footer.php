@@ -27,7 +27,7 @@
                     <a href="https://www.youtube.com/channel/UCtuyh4iWWcRLytRFtAokr5w/videos"><i class="fa fa-youtube" style="font-size:50px; color:#a21515;"></i></a>
                     <a href="#"><i class="fa fa-twitter" style="font-size:50px; color:#08e3ff; text-indent: 8px;"></i></a>
                     <a href="#"><i class="fa fa-linkedin" style="font-size:50px; color:#ededed;text-indent: 8px;"></i></a>
-                    <a href="#"><i class="fa fa-whatsapp" style="font-size:50px; color:#00eb2d; text-indent: 8px;"></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=61372755"><i class="fa fa-whatsapp" style="font-size:50px; color:#00eb2d; text-indent: 8px;"></i></a>
                 </div>
             </div>
                     

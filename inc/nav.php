@@ -9,7 +9,7 @@
 <script src="js/jquery-3.3.1.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
 
-<nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+<nav class="navbar navbar-expand-md navbar-light sticky-top bg-light">
     <a class="navbar-brand" href="#"><img src="img/logos/1.png" style="inverse"></a> 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -42,18 +42,12 @@
                     </div>
                 </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#">Disabled</a>
-        </li> 
-        <li class="nav-item">
           <a class="nav-link" href="about.php">Nosotros</a>
         </li>
       </ul>
       <form class="form-inline mt-2 mt-md-0">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        <input class="form-control mr-sm-2" type="text" placeholder="¿Qué buscas?" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Busqueda</button>
       </form>
     <ul>
             <?php
