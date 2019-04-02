@@ -61,7 +61,7 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-6">
-          <img class="img-fluid rounded mb-4 animated bounceInUp" src="img/logos/about.png" alt="" >
+          <img class="img-fluid rounded mb-4 animated bounceInUp" src="img/logos/about.jpg" alt="" >
         </div>
         <div class="col-lg-6 scrollflow -slide-top -opacity">
           <h2 style="color:#05058d" class="">Nuestra Historia</h2>

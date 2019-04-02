@@ -41,7 +41,7 @@
   ================================================== -->
   <!-- Wrap the rest of the page in another container to center all the content. -->
 
-  <div class="container marketing">
+  <div class="container marketing ">
     <h2 style="text-align:center; color:black">¿Quiénes somos?</h2> 
       <p style="text-align:center">Somos una empresa consolidada y fortalecida en publicidad, con altas espectativas de introducir a nuestros clientes al mundo virtual, logrando crear una publicidad en red, permitiendo tanto a pequeñas, medianas y grandes empresas aparecer en un mercado digital. Nuestra empresa se compone por desarrolladores web y apps, diseñadores, consultores informáticos, expertos en marketing.</p>
       <hr>
