@@ -120,7 +120,7 @@
       <div class="modal-content bg-light">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title"> <img src="img/Logo/" href="index.php" width="20%;" class="animated bounceInLeft"></h4>
+          <h4 class="modal-title"> <img src="img/logos/1.png" href="index.php" width="100%;" class="animated bounceInLeft"></h4>
         </div>
 
         <div class="modal-body">
